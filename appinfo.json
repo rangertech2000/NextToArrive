@@ -1,0 +1,52 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "thaoh@hotmail.com",
+    "longName": "SEPTA_NextToArrive",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/septa.png",
+                "menuIcon": true,
+                "name": "IMAGES_SEPTA_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "NextToArrive",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "25a118f0-e925-4368-aa3a-e97f17727c3c",
+    "versionCode": 1,
+    "versionLabel": "1.1",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
