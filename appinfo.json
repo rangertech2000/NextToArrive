@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "thaoh@hotmail.com",
-    "longName": "SEPTA_NextToArrive",
+    "longName": "SEPTA Next To Arrive",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -44,7 +44,7 @@
     ],
     "uuid": "25a118f0-e925-4368-aa3a-e97f17727c3c",
     "versionCode": 1,
-    "versionLabel": "1.1",
+    "versionLabel": "1.2",
     "watchapp": {
         "hiddenApp": false,
         "watchface": false
