@@ -1,7 +1,10 @@
 /**
  * SEPTA - Next To Arrive
- *
+ * 
  * This watchapp tells you the time that the next train will arrive.
+ *
+ * v1.2
+ *
  */
 
 var UI = require('ui');
