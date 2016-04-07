@@ -58,10 +58,10 @@ function showInboundCard(){
       card.hide();
       showOutboundCard();
     });  
-    // Refresh the Outbound card
+    // Refresh the Inbound card
     card.on('click', 'select', function(e){
       card.hide();
-      showOutboundCard();
+      showInboundCard();
     }); 
   },
   function(error) {
